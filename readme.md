@@ -6,7 +6,7 @@ Laravel Vue Project Debuger Disable.
 
 <hr/>
 
-- Go to your .env file then paste this code
+- Go to your .env file then add this line of code
 
   ```
     MIX_ENV_MODE=${APP_DEBUG}
